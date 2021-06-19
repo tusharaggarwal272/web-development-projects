@@ -1,0 +1,29 @@
+html{
+    background-color:#536B78;
+}
+fieldset{
+    background-color:#A1B0AB;
+    margin: 20px;
+    border: 5px solid #1D1128 ;
+}
+fieldset legend{
+    background-color: #1D1128;
+
+    color: white;
+    padding: 5px;
+    font-size: 24px;
+    margin: 5px;
+}
+button{
+    width: 100px;
+    /* margin-left:50vw;
+    margin-right:50vw;
+     */
+    
+    border: 5px solid #1D1128 ;
+    color: black;
+    background-color:#A1B0AB;
+    padding: 5px;
+    margin:10px auto;
+    
+}
